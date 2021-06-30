@@ -15,7 +15,7 @@ I know 7 Programming Languages :
 <br> 🏆 I am passionate about Science(Especially Physics and Chemistry) , Mathematics and Computer Science(My Career Choice)
 <br>  I am a person  from whom my friends can ask help at any time 
 <br> 👓 You can check and subscribe my youtube channel -> <a href="https://www.youtube.com/channel/UC-BQdiPl1XQFxdzq63S4v6Q"> My Channel </a>
-<br> ![Tijil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tijil2111&show_icons=true&theme=onedark&langs_count=kotlin,python)
+<br> ![Tijil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tijil2111&show_icons=true&theme=onedark)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tijil2111&theme=onedark)
 
 
