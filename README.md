@@ -12,7 +12,8 @@ I know 6 Programming Languages :
 <br> 🌱 I’m currently learning- App development for Android with Kotlin 
     <br> I love playing guitar and chess. 
     <br> You can check and subscribe my youtube channel -> <a href="https://www.youtube.com/channel/UC-BQdiPl1XQFxdzq63S4v6Q"> My Channel </a>
-   <br> <img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<Tijil2111>&theme=<THEME_NAME>" />
+   <br> [![Tijils github stats](https://github-readme-stats.vercel.app/apiTijil2111=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **Tijil2111/Tijil2111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
