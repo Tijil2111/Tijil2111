@@ -1,17 +1,17 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 I am Tijil a budding programmer. I am a Kotlin and Python Developer. I live in India. I am a 8th Grader. 
 I know 6 Programming Languages :
--> HTML
--> CSS
--> XML
--> PYTHON
--> KOTLIN
--> C#
+<br> -> HTML 
+<br> -> CSS
+<br> -> XML
+<br> -> PYTHON
+<br> -> KOTLIN
+<br> -> C#
 
 
-🌱 I’m currently learning- App development for Android with Kotlin 
-    I love playing guitar and chess. 
-    You can check and subscribe my youtube channel -> <a href="https://www.youtube.com/channel/UC-BQdiPl1XQFxdzq63S4v6Q"> My Channel </a>
+<br> 🌱 I’m currently learning- App development for Android with Kotlin 
+    <br> I love playing guitar and chess. 
+    <br> You can check and subscribe my youtube channel -> <a href="https://www.youtube.com/channel/UC-BQdiPl1XQFxdzq63S4v6Q"> My Channel </a>
 <!--
 **Tijil2111/Tijil2111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
