@@ -12,7 +12,8 @@ I know 6 Programming Languages :
 <br> 🌱 I’m currently learning- App development for Android with Kotlin 
     <br> I love playing guitar and chess. 
     <br> You can check and subscribe my youtube channel -> <a href="https://www.youtube.com/channel/UC-BQdiPl1XQFxdzq63S4v6Q"> My Channel </a>
-   <br> [![Tijil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tijil2111)](https://github.com/anuraghazra/github-readme-stats)
+   <br> ![Tijil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tijil2111&show_icons=true&theme=onedark)
+
 
 
 
