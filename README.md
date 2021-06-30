@@ -16,7 +16,6 @@ I know 7 Programming Languages :
 <br>  I am a person  from whom my friends can ask help at any time 
 <br> 👓 You can check and subscribe my youtube channel -> <a href="https://www.youtube.com/channel/UC-BQdiPl1XQFxdzq63S4v6Q"> My Channel </a>
 <br> ![Tijil's github stats](https://github-readme-stats.vercel.app/api?username=Tijil2111&show_icons=true&theme=onedark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tijil2111&layout=compact&theme=onedark)
-<br>[![Tijil2111's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tijil2111)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
