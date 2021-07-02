@@ -1,5 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 I am Tijil a budding programmer. I am a Kotlin and Python Developer. I live in India. I am a 8th Grader. 
+<br> ![](https://komarev.com/ghpvc/?username=Tijil2111&color=green)
 <br>I know 7 Programming Languages :
 <br> -> HTML 
 <br> -> CSS
