@@ -1,6 +1,7 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 I am Tijil a budding programmer. I am a Kotlin and Python Developer. I live in India. I am a 8th Grader. 
 <br> ![](https://komarev.com/ghpvc/?username=Tijil2111&color=green)
+<br> [![trophy](https://github-profile-trophy.vercel.app/?username=Tijil2111&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <br>I know 7 Programming Languages :
 <br> -> HTML 
 <br> -> CSS
@@ -18,6 +19,7 @@ I am Tijil a budding programmer. I am a Kotlin and Python Developer. I live in I
 <br> -I am a person  from whom my friends can ask help at any time 
 <br> -👓 You can check and subscribe my youtube channel -> <a href="https://www.youtube.com/channel/UC-BQdiPl1XQFxdzq63S4v6Q"> My Channel </a>
 <br> ![Tijil's github stats](https://github-readme-stats.vercel.app/api?username=Tijil2111&show_icons=true&theme=onedark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tijil2111&layout=compact&theme=onedark)
+
 
 
 
