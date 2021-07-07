@@ -12,7 +12,7 @@ I am Tijil a budding programmer. I am a Kotlin and Python Developer. I live in I
 
 
 <br> -🌱 I’m currently learning- App development for Android with Kotlin 
-<br> -🌱 I’m currently also learning-JavaScript, Python and a little bit of 3D Modelling
+<br> -🌱 I’m currently also learning-3D Modelling, Python and a little bit of JavaScript 
 <br> -🏆 I love playing guitar and chess. 
 <br> -🏆 I am passionate about Science(Especially Physics and Chemistry) , Mathematics and Computer Science(My Career Choice)
 <br> -I am a person  from whom my friends can ask help at any time 
