@@ -12,6 +12,10 @@ I am Tijil a budding programmer. I am a Kotlin and Python Developer. I live in I
 <br> -> FLUTTER
 
 
+<br> Letme tell you my coding history. In 2020 I took admission in DPSN by clearing the Admission Test and the Interview and succesfully got into the prestigious school. 
+In 7th I was introduced to coding by my CS Teacher and one of my classmates told me about the ESPICE Club's unofficial server where you learn programming and that was the start of my journey. Our school has a lot of friendly people who help you in learning to code in almost all major Programming languages. (PS When i was in my old school Programming seemed to me as a very very difficult task but now with the help of experienced students in my school Programming is just a Piece of Cake walk for me.  I know I am a Prodigy 😁)
+
+
 <br> -🌱 I’m currently learning- App development for Android with Kotlin 
 <br> -🌱 I’m currently also learning-3D Modelling, Python and a little bit of JavaScript 
 <br> -🏆 I love playing guitar and chess. 
