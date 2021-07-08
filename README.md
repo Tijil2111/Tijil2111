@@ -28,9 +28,6 @@ In 7th I was introduced to coding by my CS Teacher and one of my classmates told
 
 
 
-
-
-
 <!--
 **Tijil2111/Tijil2111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
