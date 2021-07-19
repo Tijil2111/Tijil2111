@@ -18,12 +18,11 @@ In 7th I was introduced to coding by my CS Teacher and one of my classmates told
 <br>(PS When i was in my old school Programming seemed to me as a very very difficult task but now with the help of experienced students in my school Programming is just a Piece of Cake walk for me.  I know I am a Prodigy 😁)</b></I>
 
 
-<br> -🌱 I’m currently learning- App development for Android with Kotlin 
-<br> -🌱 I’m currently also learning-3D Modelling, Python and a little bit of JavaScript 
+<br> -🌱 <b>I’m currently learning- App development for Android with Kotlin and JavaScript for Web Development
 <br> -🏆 I love playing guitar and chess. 
 <br> -🏆 I am passionate about Science(Especially Physics and Chemistry) , Mathematics and Computer Science(My Career Choice)
 <br> -I am a person  from whom my friends can ask help at any time 
-<br> -- 😄 Pronouns: Technopile, Coding Obsessed
+<br> - 😄 Pronouns: Technopile, Coding Obsessed </b>
 <br>  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <br> -👓 You can check and subscribe my youtube channel -> <a href="https://www.youtube.com/channel/UC-BQdiPl1XQFxdzq63S4v6Q"> My Channel </a>
