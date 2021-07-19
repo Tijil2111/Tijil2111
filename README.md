@@ -6,10 +6,10 @@ I am Tijil a budding programmer. I am a Kotlin and Python Developer. I live in I
 <br> -> HTML 
 <br> -> CSS
 <br> -> XML
-<br> -> PYTHON
+<br> -> PYTHON (Basics)
 <br> -> KOTLIN
-<br> -> C#
-<br> -> FLUTTER
+<br> -> C# (Basics)
+<br> -> FLUTTER (Basics)
 
 <b><I><U>Wanna Get A Profile Like Me on GitHub just star my  Tijil2111 repository and I will make one for you. (Free Of Cost)</b></I></U>
 
