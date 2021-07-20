@@ -5,10 +5,10 @@ Let me tell you my coding history. In 2020 I took admission in DPSN by clearing 
 
 Skills: -> HTML -> CSS -> XML -> PYTHON (Basics) -> KOTLIN -> C# (Basics) -> FLUTTER (Basics)
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on a lot of things
 - 🌱 I’m currently learning Android App and JavaScript 
 - 😄 Pronouns: Technopile 
-- ⚡ Fun fact: I love Maths and Science and CS 
+- ⚡ Fun fact: I love Maths, Science and CS 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tijil2111)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/Tijil2111)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UC-BQdiPl1XQFxdzq63S4v6Q)  
