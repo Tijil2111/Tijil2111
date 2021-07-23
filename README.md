@@ -11,7 +11,7 @@ Skills: -> HTML -> CSS -> XML -> PYTHON (Basics) -> KOTLIN -> C# (Basics) -> FLU
 - ⚡ Fun fact: I love Maths, Science and CS 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tijil2111)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/Tijil2111)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UC-BQdiPl1XQFxdzq63S4v6Q)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tijil2111)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/tijil2111)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC-BQdiPl1XQFxdzq63S4v6Q)  
 <!-- Markdown -->
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
