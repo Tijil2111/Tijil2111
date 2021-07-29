@@ -6,7 +6,7 @@ Let me tell you my coding history. In 2020 I took admission in DPSN by clearing 
 Skills: -> HTML -> CSS -> XML -> PYTHON (Basics) -> KOTLIN (Basics)-> C# (Basics) -> FLUTTER (Basics)
 
 - 🔭 I’m currently working on a lot of things
-- 🌱 I’m currently learning Android App and JavaScript 
+- 🌱 I’m currently learning Android App Dev with Flutter and JavaScript 
 - 😄 Pronouns: Technopile 
 - ⚡ Fun fact: I love Maths, Science and CS 
 
