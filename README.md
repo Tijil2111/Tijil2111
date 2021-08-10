@@ -24,6 +24,8 @@ Let me tell you my coding history. In 2020 I took admission in DPSN by clearing 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tijil2111&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tijil2111&show_icons=true)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Tijil2111)  
+
 
 ![GitHub metrics](https://metrics.lecoq.io/Tijil2111)  
 
