@@ -7,7 +7,7 @@ Let me tell you my coding history. In 2020 I took admission in DPSN by clearing 
 <br>Skills (Advanced): -> Python -> Dart -> Flutter 
 
 - 🔭 I’m currently working on a lot of things
-- 🌱 I’m currently learning Android App Dev with Flutter, AC# and Unity, and Python (I learn Python In school's CS class) 
+- 🌱 I’m currently learning Android App Dev with Flutter, C# and Unity, and Python (I learn Python In school's CS class) 
 - 😄 Pronouns: Technopile 
 - ⚡ Fun fact: I love Maths, Science and CS 
 
