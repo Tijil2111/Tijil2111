@@ -14,6 +14,7 @@ Let me tell you my coding history. In 2020 I took admission in DPSN by clearing 
 - 😄 Pronouns: Technopile 
 - ⚡ Fun fact: I love Maths, Science and CS 
 
+<br> My Profile Pic Credits go to Devansh Singh of DPSN 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tijil2111)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/16364910/tijil2111)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC-BQdiPl1XQFxdzq63S4v6Q)  
 <!-- Markdown -->
