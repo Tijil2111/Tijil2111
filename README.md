@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Tijil 
-#### I am a Android App, C# and Python Dev
+#### I am a Android App and Python Dev
 #### I am an eSpician (A member at one of the leading tech clubs in Noida)
 #### I am a Full Stack App Developer
 
@@ -10,7 +10,7 @@ Let me tell you my coding history. In 2020 I took admission in DPSN by clearing 
 <br>Skills (Advanced): -> Python -> Dart -> Flutter 
 
 - 🔭 I’m currently working on a lot of things
-- 🌱 I’m currently UI design in Flutter ,C# and Unity, and Python (I learn Python In school's CS class) 
+- 🌱 I’m currently UI design in Flutter , Blueprints and C++ with Unreal Engine and Python (I learn Python In school's CS class) 
 - 😄 Pronouns: Technopile 
 - ⚡ Fun fact: I love Maths, Science and CS 
 
