@@ -10,7 +10,7 @@ Let me tell you my coding history. In 2020 I took admission in DPSN by clearing 
 <br>Skills (Advanced): -> Python -> Dart -> Flutter 
 
 - 🔭 I’m currently working on a lot of things
-- 🌱 I’m currently UI design in Flutter , Blueprints and C++ with Unreal Engine and Python (I learn Python In school's CS class) 
+- 🌱 I’m currently learning Web development and MS Access (I am learning MS Access in school's CS class for DBM)
 - 😄 Pronouns: Technopile 
 - ⚡ Fun fact: I love Maths, Science and CS 
 
