@@ -8,7 +8,7 @@ Let me tell you my coding history. In 2020 I took admission in DPSN by clearing 
 
 
 - 🔭 I’m currently working on a lot of things
-- 🌱 I’m currently learning Web development and MS Access (I am learning MS Access in school's CS class for DBM)
+- 🌱 I’m currently learning MS Access (I am learning MS Access in school's CS class for DBM)
 - 😄 Pronouns: Technopile 
 - ⚡ Fun fact: I love Maths, Science and CS 
 
