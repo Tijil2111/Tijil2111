@@ -1,9 +1,9 @@
 ### Hi there 👋, My name is Tijil 
-#### I am a Android App and Web dev and a Movie Maker :D
+#### I am an Android App and Web dev and a Movie Maker :D
 #### CTO at Redwin CSS 
 #### I am an eSpician (A member at one of the leading tech clubs in Noida)
 #### I am the FriendlyKitten. I sleep, eat and live to code. :D
-#### I am a Full Stack App Developer, Frontend Web Developer
+#### I am a Full Stack App Developer, Frontend Web Developer (Trying to learn Full Stack Web development)
 #### Me === Cat Lover
 
 Let me tell you my coding history. In 2020 I took admission in DPSN by clearing the Admission Test and the Interview and succesfully got into the prestigious school. In 7th I was introduced to coding by my CS Teacher and one of my classmates told me about the ESPICE (The CS club of my school) Club's unofficial server where you learn programming and that was the start of my journey. Our school has a lot of friendly people who help you in learning to code in almost all major Programming languages.
