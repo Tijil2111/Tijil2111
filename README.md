@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Tijil 
 #### I am a Android App and Web dev and a Movie Maker :D
-#### CEO at Redwin CSS 
+#### CTO at Redwin CSS 
 #### I am an eSpician (A member at one of the leading tech clubs in Noida)
 #### I am the FriendlyKitten. I sleep, eat and live to code. :D
 #### I am a Full Stack App Developer, Frontend Web Developer
