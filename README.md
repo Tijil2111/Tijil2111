@@ -2,7 +2,7 @@
 #### I am an Android App and Web dev and a Movie Maker :D
 #### CTO at Redwin CSS 
 #### I am an eSpician (A member at one of the leading tech clubs in Noida)
-#### I am the FriendlyKitten. I sleep, eat and live to code. :D
+#### I am Bunny Girl Senpai fan boy. I sleep, eat and live to code. :D
 #### I am a Full Stack App Developer, Frontend Web Developer (Trying to learn Full Stack Web development)
 #### Me === Bunny Girl Senpai Anime Lover !
 
