@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Tijil 
 #### I am an Android App and Web dev and a Movie Maker :D
-#### CTO at Redwin CSS 
+#### CEO and Founder of Tijil Studio Inc and Rirakkusu 
 #### I am an eSpician (A member at one of the leading tech clubs in Noida)
 #### I am Bunny Girl Senpai fan boy. I sleep, eat and live to code. :D
 #### I am a Full Stack App Developer, Frontend Web Developer (Trying to learn Full Stack Web development)
@@ -9,6 +9,8 @@
 Let me tell you my coding history. In 2020 I took admission in DPSN by clearing the Admission Test and the Interview and succesfully got into the prestigious school. In 7th I was introduced to coding by my CS Teacher and one of my classmates told me about the ESPICE (The CS club of my school) Club's unofficial server where you learn programming and that was the start of my journey. Our school has a lot of friendly people who help you in learning to code in almost all major Programming languages.
 (PS When i was in my old school Programming seemed to me as a very very difficult task but now with the help of experienced students in my school Programming is just a Piece of Cake walk for me. (I know I am a Prodigy 😁)
 
+
+My new app Rirakkusu is soon releasing on the Samsung Play Store ! 
 
 - 🔭 I’m currently working on a lot of things
 - 🌱 I’m currently learning React and Firebase as well as MongoDB, Express.js and Node.js.
