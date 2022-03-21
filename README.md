@@ -13,7 +13,7 @@ Let me tell you my coding history. In 2020 I took admission in DPSN by clearing 
 My new app Rirakkusu is soon releasing on the Samsung Play Store ! 
 
 - 🔭 I’m currently working on a lot of things
-- 🌱 I’m currently learning React and Firebase as well as MongoDB, Express.js and Node.js.
+- 🌱 I’m currently MongoDB, Express.js and Node.js.
 - 😄 Pronouns: Technopile 
 - ⚡ Fun fact: I love Maths, Science and CS 
 
