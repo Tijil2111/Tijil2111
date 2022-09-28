@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Tijil 
 #### I am an Android App and Web dev and a Movie Maker :D
-#### CEO and Founder of Tijil Studio Inc and Rirakkusu 
+#### CEO and Founder of Rirakkusu 
 #### I am an eSpician (A member at one of the leading tech clubs in Noida)
 #### I am Bunny Girl Senpai fan boy. I sleep, eat and live to code. :D
 #### I am a Full Stack App Developer, Frontend Web Developer (Trying to learn Full Stack Web development)
@@ -10,10 +10,9 @@ Let me tell you my coding history. In 2020 I took admission in DPSN by clearing 
 (PS When i was in my old school Programming seemed to me as a very very difficult task but now with the help of experienced students in my school Programming is just a Piece of Cake walk for me. (I know I am a Prodigy 😁)
 
 
-My new app Rirakkusu is soon releasing on the Samsung Play Store ! 
+Rirakkusu is released on app store !  
 
-- 🔭 I’m currently working on a lot of things
-- 🌱 I’m currently Strapi.
+- 🔭 I’m currently working on my new startup.
 - 😄 Pronouns: Technopile 
 - ⚡ Fun fact: I love Maths, Science and CS 
 
