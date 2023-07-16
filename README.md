@@ -1,9 +1,9 @@
 ### Hi there 👋, My name is Tijil 
-#### I am an Android App and Web dev and a Movie Maker :D
+#### I am an App and Web dev as well as a Movie Maker :D
 #### CEO and Founder of Rirakkusu 
 #### I am an eSpician (A member at one of the leading tech clubs in Noida) and a member at Enigma (no cap but the best quizzing club in the delhi quiz circuit)
 #### I am a Horimiya fan boy. I sleep, eat and live to code. :D
-#### I am a Full Stack App Developer, Frontend Web Developer (Trying to learn Full Stack Web development)
+#### I am a Full Stack App Developer, Full Stack Developer, UI Designer, Video Editor
 
 Oompa Lompa helps me at -> https://www.buymeacoffee.com/tijilAgrawal
 
