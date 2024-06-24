@@ -1,8 +1,8 @@
 ### Hi there 👋, My name is Tijil 
 #### I am an App and Web dev as well as a Movie Maker :D
 #### CEO and Founder of Rirakkusu 
-#### I am a Full Stack App Developer, Full Stack Developer, UI Designer, Video Editor
-
+#### I am a Full Stack App Developer, Full Stack Web Developer, UI Designer, Video Editor
+#### Member @Exun Clan
 Oompa Lompa helps me at -> https://www.buymeacoffee.com/tijilAgrawal
 
 - 🔭 I’m currently working on my new startup.
